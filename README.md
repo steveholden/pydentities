@@ -25,7 +25,7 @@ Python environment with
 
     pip install rise
 
-Restarting the Jupyter notebook server should givr you access
+Restarting the Jupyter notebook server should give you access
 to the slide presentation features.
 _Steve Holden_
 _26 Feb, 2020_
