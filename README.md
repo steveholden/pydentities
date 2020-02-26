@@ -27,5 +27,10 @@ Python environment with
 
 Restarting the Jupyter notebook server should give you access
 to the slide presentation features.
+
+Note that Github's notebook viewer does not display the slide
+settings.
+
+
 _Steve Holden_
 _26 Feb, 2020_
